@@ -1,0 +1,51 @@
+#topbar {
+    height: 48px;
+    width: 168.97px;
+    display: inline;
+    padding: 8px 16px;
+}
+#topbar ul li {
+  float: right;
+  overflow: hidden;
+}
+
+#topbar a {
+  display: block;
+  padding: 8px;
+}
+
+
+#logo {
+    text-align: center;
+    margin: 56px 0px 0px;
+}
+
+#recent {
+    text-align: center;
+    margin: 22px 0px 0px;
+}
+#searchbar {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+#recent a {
+    padding: 16px 4px 10px;
+    padding: 8px;
+}
+
+#recent li {
+  display: inline;
+}
+
+p {
+    font-size: 7em;
+    margin: 0;
+    color: green;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
